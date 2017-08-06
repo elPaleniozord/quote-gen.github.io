@@ -1,0 +1,53 @@
+body{
+  background-color:white;
+  font-family:'Trebuchet MS', sans-serif;
+}
+h1{
+  color:#1a8cff;
+  font-size:40px;
+  margin-left: -20%;
+  font-weight: bold;
+}
+h1 a {
+    color: #1a8cff;
+    text-decoration: none; }
+    h1 a:hover, h1 a:active {
+      text-decoration: none;
+      color:#1a8cff;}
+  h1 .italics {
+    font-style: italic;
+    font-family: "Baskerville", cursive;
+    font-weight: normal;
+    vertical-align: text-top;
+    line-height: 5px; 
+    margin-left: -5%; }
+p{
+  color:#1a8cff;
+  font-size:20px;
+}
+.quotes{ 
+  font-family: "Georgia", serif;
+  width:40%;
+  min-height: 275px;
+  margin-right:auto;
+  margin-left:auto;
+  border-color:white;
+  border-style:solid;
+  margin-top:20px;
+  padding:20px;
+  height:auto;
+}
+.sentence{
+  font-size:40px;
+  font-style:italic;
+}
+.author{
+  font-size:30px;  
+}
+.btn{
+  background-color: #1a8cff;
+  border-radius: 8px;
+  color: white;
+  padding: 15px 32px;
+  font-size: 20px;    
+}
